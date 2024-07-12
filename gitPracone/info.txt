@@ -1,0 +1,15 @@
+Devops
+
+git init---initialize the git repo
+
+
+//working directory ---staging---local repo--cloud
+
+
+git status: RED--Not tracked
+            GREEN-- tracked
+
+git add .
+
+git add fileName
+git commit -m(options(msg))

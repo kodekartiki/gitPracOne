@@ -1,3 +1,3 @@
 console.log('day2')
 
-//working directory ====> staging 
+//working directory ====> staging ====> local ===> cloud
