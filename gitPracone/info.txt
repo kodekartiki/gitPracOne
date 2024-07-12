@@ -14,3 +14,5 @@ git add .
 git add fileName
 git commit -m(options(msg))
 
+git log---all commits
+git show HEAD --latest commit
