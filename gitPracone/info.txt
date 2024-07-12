@@ -16,3 +16,5 @@ git commit -m(options(msg))
 
 git log---all commits
 git show HEAD --latest commit
+
+git diff
