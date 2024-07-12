@@ -13,3 +13,4 @@ git add .
 
 git add fileName
 git commit -m(options(msg))
+
