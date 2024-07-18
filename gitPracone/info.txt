@@ -18,3 +18,5 @@ git log---all commits
 git show HEAD --latest commit
 
 git diff
+
+ 
