@@ -19,4 +19,20 @@ git show HEAD --latest commit
 
 git diff
 
+git log
+
+#Scenario 1
+working directory ---- same as last commit
+
+#Scenario 2
+staging same as last commit
+
+#Scenario 3
+removing the commit to roll back to spect commit
+
+
+
+
+
+
  
