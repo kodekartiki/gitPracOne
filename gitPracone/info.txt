@@ -32,7 +32,7 @@ git reset HEAD fileName
 #Scenario 3
 removing the commit to roll back to spect commit
 
-
+git reset 7eedcaa
 
 
 
