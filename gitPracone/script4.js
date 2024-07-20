@@ -1,1 +1,3 @@
-console.log("i am getting into staging and i am also getting in stagingq")
+console.log("hello")
+console.log('new file added')
+
