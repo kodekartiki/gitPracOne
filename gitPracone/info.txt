@@ -36,5 +36,6 @@ git reset 7eedcaa
 total branch
 1) git branch
 2) git branch branchName 
+3)
 
  
